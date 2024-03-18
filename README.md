@@ -1,16 +1,10 @@
-# todo_app_assignment
+# TODO App
 
-A new Flutter project.
+https://github.com/patelkeval936/todo_app_assignment/assets/68424914/c0fcd47d-458f-4ed1-a4bf-5fd99993ec2e
 
-## Getting Started
+__________________
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Made by : 
+Keval Aamodra
+patelkeval936@gmail.com
++91 7567781104
